@@ -8,5 +8,4 @@ Files:
   - Includes:
     - Checks: standard vote checks, field length checks and more to be used in every ERJ script
     - Set-up: standard field naming convention. Requires particular set-up on user's end, but if set up complete, can help with standardization 
-- erj_readme.py:
-    - Readme: standard readme format and information variables to use for every ERJ readme. Function to create shapefile and readme also available.
+
